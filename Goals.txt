@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+name = 'Collin McKinney'
+trinityID = '0756930'
+date = '2015-10-02'
+goal1 = 'improve my analytical skills'
+goal2 = 'win conference in football'
+goal3 = 'beat hardin simmons'
+goal1Value = 0.2
+goal2Value = 0.2
+goal3Value = 0.6
